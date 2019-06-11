@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: 4a345058259981640899a072bbcda2fc
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: column_15
+    100002: detail_airHuge_20
+    100004: detail_airSmall_16
+    100006: detail_signRectangle_17
+    100008: //RootNode
+    100010: roof_flat_7
+    100012: roof_flat_corner_large_8
+    100014: roof_pointSteps_14
+    100016: structure_column_13
+    100018: wall_cornerDiagonal_9
+    100020: wall_straight_10
+    100022: wall_straight_11
+    100024: wall_straight_12
+    400000: column_15
+    400002: detail_airHuge_20
+    400004: detail_airSmall_16
+    400006: detail_signRectangle_17
+    400008: //RootNode
+    400010: roof_flat_7
+    400012: roof_flat_corner_large_8
+    400014: roof_pointSteps_14
+    400016: structure_column_13
+    400018: wall_cornerDiagonal_9
+    400020: wall_straight_10
+    400022: wall_straight_11
+    400024: wall_straight_12
+    2100000: border
+    2100002: bricks
+    2100004: stone
+    2100006: darkStone
+    2100008: _defaultMat
+    2100010: lightStone
+    2100012: customMaterial7
+    2300000: column_15
+    2300002: detail_airHuge_20
+    2300004: detail_airSmall_16
+    2300006: detail_signRectangle_17
+    2300008: roof_flat_7
+    2300010: roof_flat_corner_large_8
+    2300012: roof_pointSteps_14
+    2300014: structure_column_13
+    2300016: wall_cornerDiagonal_9
+    2300018: wall_straight_10
+    2300020: wall_straight_11
+    2300022: wall_straight_12
+    3300000: column_15
+    3300002: detail_airHuge_20
+    3300004: detail_airSmall_16
+    3300006: detail_signRectangle_17
+    3300008: roof_flat_7
+    3300010: roof_flat_corner_large_8
+    3300012: roof_pointSteps_14
+    3300014: structure_column_13
+    3300016: wall_cornerDiagonal_9
+    3300018: wall_straight_10
+    3300020: wall_straight_11
+    3300022: wall_straight_12
+    4300000: roof_flat_7
+    4300002: roof_flat_corner_large_8
+    4300004: wall_cornerDiagonal_9
+    4300006: wall_straight_10
+    4300008: wall_straight_11
+    4300010: wall_straight_12
+    4300012: structure_column_13
+    4300014: roof_pointSteps_14
+    4300016: column_15
+    4300018: detail_airSmall_16
+    4300020: detail_signRectangle_17
+    4300022: detail_airHuge_20
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

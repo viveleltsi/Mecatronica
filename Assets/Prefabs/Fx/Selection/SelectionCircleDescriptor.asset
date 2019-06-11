@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 955cc98c0e5c4fd4d88d363496b7e0ff, type: 3}
+  m_Name: SelectionCircleDescriptor
+  m_EditorClassIdentifier: 
+  Id: 6d50bf7d-0f46-45aa-bc96-be96045d35fc
+  EditorName: Selection Circle
+  LocalizedNameId: 
+  LocalizedDescriptionId: 
+  Icon: {fileID: 0}
+  Category: Selection
+  Prefab: {fileID: 6823684901645049402, guid: c449146c93b816b4ba6a06c5e02d26ce, type: 3}

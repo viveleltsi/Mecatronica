@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67de915a0a2b67d479ae9bcaeee4b148, type: 3}
+  m_Name: 3DPrinterModule
+  m_EditorClassIdentifier: 
+  Id: 39077b07-bc60-409b-afc4-9c7b7b69671a
+  EditorName: 
+  LocalizedNameId: 
+  LocalizedDescriptionId: 
+  Icon: {fileID: 0}
+  Category: Drop
+  Prefab: {fileID: 1166556133977421480, guid: 6832ed09b6226814d8c64ea9c847b5fd, type: 3}
+  PlaceholderId: 1935d13f-8894-4701-89d8-29153f2a8441

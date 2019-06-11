@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74277b3aa86a1b44dbd71e9475273e53, type: 3}
+  m_Name: MeteoricSource
+  m_EditorClassIdentifier: 
+  Id: 9738cfe0-8b74-4b72-b3ed-66f32eab2e02
+  EditorName: Meteoric iron source
+  Category: 
+  LocalizedNameId: 
+  LocalizedDescriptionId: 
+  Icon: {fileID: 0}
+  State: 1
+  PrefabDescriptorId: 46c6371f-2c0e-4b59-bd76-673ddc0d31a8
+  RawResourceId: f1b75c2f-5bb3-49b3-92b0-7c200ba952c3
